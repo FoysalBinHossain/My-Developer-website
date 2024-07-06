@@ -1,6 +1,19 @@
-div{
+.first{
     background-color: aqua;
     padding: 10px;
     text-align: center;
     margin: auto;
+}
+.img{
+    background-color: bisque;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    padding: 10px;
+    border: 2px solid rgb(37, 21, 1);
+    max-width: 100%;
+    width: 50%;
+    
+
 }
